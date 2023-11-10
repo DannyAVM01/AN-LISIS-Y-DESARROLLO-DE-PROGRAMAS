@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "/workspaces/AN-LISIS-Y-DESARROLLO-DE-PROGRAMAS/CUENTA",
+      "program": "/workspaces/AN-LISIS-Y-DESARROLLO-DE-PROGRAMAS/CUENTA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
