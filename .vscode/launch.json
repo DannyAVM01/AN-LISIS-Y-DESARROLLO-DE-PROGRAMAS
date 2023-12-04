@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/AN-LISIS-Y-DESARROLLO-DE-PROGRAMAS/CUENTA",
-      "program": "/workspaces/AN-LISIS-Y-DESARROLLO-DE-PROGRAMAS/CUENTA/build/Debug/outDebug",
+      "cwd": "/workspaces/AN-LISIS-Y-DESARROLLO-DE-PROGRAMAS/HERENCIA",
+      "program": "/workspaces/AN-LISIS-Y-DESARROLLO-DE-PROGRAMAS/HERENCIA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
