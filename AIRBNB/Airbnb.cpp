@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "casa.h"
+#include "Casa.h"
 #include "CasaRentada.h"
 
 using namespace std;
